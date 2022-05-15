@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1019 853.3" style="enable-background:new 0 0 1019 853.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#020202;}
+	.st1{font-family:'Arial-ItalicMT';}
+	.st2{font-size:18px;}
+	.st3{font-family:'ArialMT';}
+	.st4{enable-background:new    ;}
+	.st5{fill:none;stroke:#010101;stroke-width:0.75;stroke-miterlimit:10;}
+	.st6{fill:#010101;}
+	.st7{font-size:14px;}
+	.st8{fill:none;stroke:#020202;stroke-miterlimit:10;}
+	.st9{font-family:'Arial-BoldMT';}
+	.st10{fill:#030303;}
+	.st11{font-size:32px;}
+</style>
+<g>
+	<text transform="matrix(1.0428 0 0 1 43.4009 244.1084)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(1.0428 0 0 1 99.7119 244.1084)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(1.0428 0 0 1 126.8247 244.1084)" class="st0 st1 st2"> </text>
+	<text transform="matrix(1.0428 0 0 1 24.2915 278.5723)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(1.0428 0 0 1 64.2515 313.0361)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(1.0428 0 0 1 39.9268 346.5)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(1.0428 0 0 1 7.5923 379.9639)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+	<g>
+		<g>
+			<rect x="136.7" y="219.3" class="st0" width="33" height="34.4"/>
+		</g>
+		<rect x="136.7" y="219.3" class="st5" width="165.1" height="172.3"/>
+		<line class="st5" x1="169.8" y1="219.3" x2="169.8" y2="391.6"/>
+		<line class="st5" x1="202.8" y1="219.3" x2="202.8" y2="391.6"/>
+		<line class="st5" x1="235.8" y1="219.3" x2="235.8" y2="391.6"/>
+		<line class="st5" x1="268.8" y1="219.3" x2="268.8" y2="391.6"/>
+		<line class="st5" x1="136.7" y1="253.7" x2="301.9" y2="253.7"/>
+		<line class="st5" x1="136.7" y1="288.2" x2="301.9" y2="288.2"/>
+		<line class="st5" x1="136.7" y1="322.6" x2="301.9" y2="322.6"/>
+		<line class="st5" x1="136.7" y1="357.1" x2="301.9" y2="357.1"/>
+		<text transform="matrix(1.0232 0 0 1 139.5806 379.3906)" class="st6 st3 st7">41.8</text>
+		<text transform="matrix(1.0232 0 0 1 139.5806 345.0962)" class="st6 st3 st7">12.0</text>
+		<text transform="matrix(1.0232 0 0 1 139.5806 310.1665)" class="st6 st3 st7">54.5</text>
+		<text transform="matrix(1.0232 0 0 1 139.5806 275.6191)" class="st6 st3 st7"> 9.4</text>
+		<path class="st8" d="M208.1,374.2"/>
+		<g>
+			<rect x="169.8" y="253.7" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="235.8" y="322.6" class="st0" width="33" height="34.1"/>
+		</g>
+		<g>
+			<rect x="202.8" y="288.2" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="268.8" y="357.4" class="st0" width="33" height="33.8"/>
+		</g>
+		<text transform="matrix(1.0232 0 0 1 171.9351 240.7627)" class="st6 st3 st7"> 9.4</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 240.7627)" class="st6 st3 st7">54.5</text>
+		<text transform="matrix(1.0232 0 0 1 238.687 240.9336)" class="st6 st3 st7">12.0</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 240.7627)" class="st6 st3 st7">41.8</text>
+		<text transform="matrix(1.0232 0 0 1 171.9355 310.1665)" class="st6 st3 st7">21.3</text>
+		<text transform="matrix(1.0232 0 0 1 171.9351 345.3799)" class="st6 st3 st7">40.8</text>
+		<text transform="matrix(1.0232 0 0 1 171.9351 379.3906)" class="st6 st3 st7">29.8</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 274.8174)" class="st6 st3 st7">21.3</text>
+		<text transform="matrix(1.0232 0 0 1 238.687 274.8184)" class="st6 st3 st7">40.8</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 274.9863)" class="st6 st3 st7">29.8</text>
+		<text transform="matrix(1.0232 0 0 1 238.687 310.166)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 310.1665)" class="st6 st3 st7">67.3</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 345.0962)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 379.3906)" class="st6 st3 st7">67.3</text>
+		<text transform="matrix(1.0232 0 0 1 238.687 379.3906)" class="st6 st3 st7">39.0</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 345.0962)" class="st6 st3 st7">39.0</text>
+	</g>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 156.3818 214.6279)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 156.3818 158.3164)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 156.3818 131.2031)" class="st0 st1 st2"> </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 190.8457 214.6279)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 225.3101 214.6279)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 258.7739 214.6279)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 292.2378 214.6279)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+</g>
+<text transform="matrix(1 0 0 1 149.0442 25.6422)" class="st9 st2">IF2/EF-Tu Tree 1</text>
+<text transform="matrix(1 0 0 1 162.0442 47.2422)" class="st9 st2">MAD Rooting</text>
+<text transform="matrix(1 0 0 1 147.0442 68.8422)" class="st9 st2">Whole Sequence</text>
+<text transform="matrix(1 0 0 1 483.3528 25.6423)" class="st9 st2">IF2/EF-Tu Tree 1</text>
+<text transform="matrix(1 0 0 1 503.3528 47.2423)" class="st9 st2">MP Rooting</text>
+<text transform="matrix(1 0 0 1 481.3528 68.8423)" class="st9 st2">Whole Sequence</text>
+<text transform="matrix(1 0 0 1 829.7231 25.6423)" class="st9 st2">IF2/EF-Tu Tree 1</text>
+<text transform="matrix(1 0 0 1 849.7231 47.2424)" class="st9 st2">MV Rooting</text>
+<text transform="matrix(1 0 0 1 827.7231 68.8424)" class="st9 st2">Whole Sequence</text>
+<g>
+	<text transform="matrix(1.0428 0 0 1 43.4004 686.5732)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(1.0428 0 0 1 99.7119 686.5732)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(1.0428 0 0 1 126.8247 686.5732)" class="st0 st1 st2"> </text>
+	<text transform="matrix(1.0428 0 0 1 24.291 721.0371)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(1.0428 0 0 1 64.251 755.501)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(1.0428 0 0 1 39.9268 788.9648)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(1.0428 0 0 1 7.5918 822.4287)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+	<g>
+		<g>
+			<rect x="136.7" y="661.8" class="st0" width="33" height="34.4"/>
+		</g>
+		<rect x="136.7" y="661.8" class="st5" width="165.1" height="172.3"/>
+		<line class="st5" x1="169.8" y1="661.8" x2="169.8" y2="834.1"/>
+		<line class="st5" x1="202.8" y1="661.8" x2="202.8" y2="834.1"/>
+		<line class="st5" x1="235.8" y1="661.8" x2="235.8" y2="834.1"/>
+		<line class="st5" x1="268.8" y1="661.8" x2="268.8" y2="834.1"/>
+		<line class="st5" x1="136.7" y1="696.2" x2="301.9" y2="696.2"/>
+		<line class="st5" x1="136.7" y1="730.7" x2="301.9" y2="730.7"/>
+		<line class="st5" x1="136.7" y1="765.1" x2="301.9" y2="765.1"/>
+		<line class="st5" x1="136.7" y1="799.6" x2="301.9" y2="799.6"/>
+		<text transform="matrix(1.0232 0 0 1 139.5801 821.8555)" class="st6 st3 st7">60.6</text>
+		<text transform="matrix(1.0232 0 0 1 139.5801 787.5615)" class="st6 st3 st7">27.5</text>
+		<text transform="matrix(1.0232 0 0 1 139.5801 752.6318)" class="st6 st3 st7">66.9</text>
+		<text transform="matrix(1.0232 0 0 1 139.5801 718.084)" class="st6 st3 st7">26.6</text>
+		<path class="st8" d="M208.1,816.7"/>
+		<g>
+			<rect x="169.8" y="696.2" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="235.8" y="765.1" class="st0" width="33" height="34.1"/>
+		</g>
+		<g>
+			<rect x="202.8" y="730.7" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="268.8" y="799.9" class="st0" width="33" height="33.8"/>
+		</g>
+		<text transform="matrix(1.0232 0 0 1 171.9346 683.2275)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 683.2275)" class="st6 st3 st7">66.9</text>
+		<text transform="matrix(1.0232 0 0 1 238.6865 683.3984)" class="st6 st3 st7">27.5</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 683.2275)" class="st6 st3 st7">60.6</text>
+		<text transform="matrix(1.0232 0 0 1 171.9355 752.6318)" class="st6 st3 st7">31.9</text>
+		<text transform="matrix(1.0232 0 0 1 171.9346 787.8447)" class="st6 st3 st7">45.6</text>
+		<text transform="matrix(1.0232 0 0 1 171.9346 821.8555)" class="st6 st3 st7">38.4</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 717.2822)" class="st6 st3 st7">31.9</text>
+		<text transform="matrix(1.0232 0 0 1 238.6865 717.2832)" class="st6 st3 st7">45.6</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 717.4512)" class="st6 st3 st7">38.4</text>
+		<text transform="matrix(1.0232 0 0 1 238.6865 752.6309)" class="st6 st3 st7">35.3</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 752.6318)" class="st6 st3 st7">81.1</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 787.5615)" class="st6 st3 st7">35.3</text>
+		<text transform="matrix(1.0232 0 0 1 205.3105 821.8555)" class="st6 st3 st7">81.1</text>
+		<text transform="matrix(1.0232 0 0 1 238.6865 821.8555)" class="st6 st3 st7">45.3</text>
+		<text transform="matrix(1.0232 0 0 1 272.4062 787.5615)" class="st6 st3 st7">45.3</text>
+	</g>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 156.3818 657.0928)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 156.3818 600.7803)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 156.3818 573.6689)" class="st0 st1 st2"> </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 190.8457 657.0928)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 225.3101 657.0928)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 258.7739 657.0928)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 292.2378 657.0928)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+</g>
+<text transform="matrix(1 0 0 1 145.2961 470.107)" class="st9 st2">IF2/EF-Tu Tree 1</text>
+<text transform="matrix(1 0 0 1 158.2961 491.707)" class="st9 st2">MAD Rooting</text>
+<text transform="matrix(1 0 0 1 126.7961 513.307)" class="st9 st2">GTP-binding domain</text>
+<text transform="matrix(1 0 0 1 479.6047 470.1071)" class="st9 st2">IF2/EF-Tu Tree 1</text>
+<text transform="matrix(1 0 0 1 499.6047 491.7071)" class="st9 st2">MP Rooting</text>
+<text transform="matrix(1 0 0 1 461.1047 513.3071)" class="st9 st2">GTP-binding domain</text>
+<text transform="matrix(1 0 0 1 825.975 470.1072)" class="st9 st2">IF2/EF-Tu Tree 1</text>
+<text transform="matrix(1 0 0 1 845.975 491.7072)" class="st9 st2">MV Rooting</text>
+<text transform="matrix(1 0 0 1 807.475 513.3073)" class="st9 st2">GTP-binding domain</text>
+<g>
+	<text transform="matrix(1.0428 0 0 1 370.7334 244.1074)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(1.0428 0 0 1 427.0439 244.1074)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(1.0428 0 0 1 454.1572 244.1074)" class="st0 st1 st2"> </text>
+	<text transform="matrix(1.0428 0 0 1 351.624 278.5713)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(1.0428 0 0 1 391.584 313.0352)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(1.0428 0 0 1 367.2598 346.499)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(1.0428 0 0 1 334.9248 379.9634)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+	<g>
+		<g>
+			<rect x="464" y="219.3" class="st0" width="33" height="34.4"/>
+		</g>
+		<rect x="464" y="219.3" class="st5" width="165.1" height="172.3"/>
+		<line class="st5" x1="497.1" y1="219.3" x2="497.1" y2="391.6"/>
+		<line class="st5" x1="530.1" y1="219.3" x2="530.1" y2="391.6"/>
+		<line class="st5" x1="563.1" y1="219.3" x2="563.1" y2="391.6"/>
+		<line class="st5" x1="596.1" y1="219.3" x2="596.1" y2="391.6"/>
+		<line class="st5" x1="464" y1="253.7" x2="629.2" y2="253.7"/>
+		<line class="st5" x1="464" y1="288.2" x2="629.2" y2="288.2"/>
+		<line class="st5" x1="464" y1="322.6" x2="629.2" y2="322.6"/>
+		<line class="st5" x1="464" y1="357.1" x2="629.2" y2="357.1"/>
+		<text transform="matrix(1.0232 0 0 1 466.9131 379.3896)" class="st6 st3 st7">44.4</text>
+		<text transform="matrix(1.0232 0 0 1 466.9131 345.0957)" class="st6 st3 st7">12.0</text>
+		<text transform="matrix(1.0232 0 0 1 466.9131 310.166)" class="st6 st3 st7">54.5</text>
+		<text transform="matrix(1.0232 0 0 1 466.9131 275.6182)" class="st6 st3 st7"> 9.4</text>
+		<path class="st8" d="M535.4,374.2"/>
+		<g>
+			<rect x="497.1" y="253.7" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="563.1" y="322.6" class="st0" width="33" height="34.1"/>
+		</g>
+		<g>
+			<rect x="530.1" y="288.2" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="596.1" y="357.4" class="st0" width="33" height="33.8"/>
+		</g>
+		<text transform="matrix(1.0232 0 0 1 499.2676 240.7617)" class="st6 st3 st7"> 9.4</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 240.7617)" class="st6 st3 st7">54.5</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 240.9331)" class="st6 st3 st7">12.0</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 240.7617)" class="st6 st3 st7">44.4</text>
+		<text transform="matrix(1.0232 0 0 1 499.2686 310.166)" class="st6 st3 st7">21.3</text>
+		<text transform="matrix(1.0232 0 0 1 499.2676 345.3794)" class="st6 st3 st7">40.8</text>
+		<text transform="matrix(1.0232 0 0 1 499.2676 379.3896)" class="st6 st3 st7">26.0</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 274.8164)" class="st6 st3 st7">21.3</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 274.8174)" class="st6 st3 st7">40.8</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 274.9854)" class="st6 st3 st7">26.0</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 310.165)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 310.166)" class="st6 st3 st7">75.5</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 345.0957)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 379.3896)" class="st6 st3 st7">75.5</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 379.3896)" class="st6 st3 st7">33.1</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 345.0957)" class="st6 st3 st7">33.1</text>
+	</g>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 483.7148 214.6279)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 483.7148 158.3164)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 483.7148 131.2031)" class="st0 st1 st2"> </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 518.1787 214.6279)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 552.6426 214.6279)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 586.1064 214.6279)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 619.5703 214.6279)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+</g>
+<g>
+	<text transform="matrix(1.0428 0 0 1 716.8887 244.1074)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(1.0428 0 0 1 773.1992 244.1074)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(1.0428 0 0 1 800.3125 244.1074)" class="st0 st1 st2"> </text>
+	<text transform="matrix(1.0428 0 0 1 697.7783 278.5713)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(1.0428 0 0 1 737.7393 313.0352)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(1.0428 0 0 1 713.415 346.499)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(1.0428 0 0 1 681.0801 379.9634)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+	<g>
+		<g>
+			<rect x="810.2" y="219.3" class="st0" width="33" height="34.4"/>
+		</g>
+		<rect x="810.2" y="219.3" class="st5" width="165.1" height="172.3"/>
+		<line class="st5" x1="843.3" y1="219.3" x2="843.3" y2="391.6"/>
+		<line class="st5" x1="876.3" y1="219.3" x2="876.3" y2="391.6"/>
+		<line class="st5" x1="909.3" y1="219.3" x2="909.3" y2="391.6"/>
+		<line class="st5" x1="942.3" y1="219.3" x2="942.3" y2="391.6"/>
+		<line class="st5" x1="810.2" y1="253.7" x2="975.4" y2="253.7"/>
+		<line class="st5" x1="810.2" y1="288.2" x2="975.4" y2="288.2"/>
+		<line class="st5" x1="810.2" y1="322.6" x2="975.4" y2="322.6"/>
+		<line class="st5" x1="810.2" y1="357.1" x2="975.4" y2="357.1"/>
+		<text transform="matrix(1.0232 0 0 1 813.0684 379.3896)" class="st6 st3 st7">41.8</text>
+		<text transform="matrix(1.0232 0 0 1 813.0684 345.0957)" class="st6 st3 st7">12.0</text>
+		<text transform="matrix(1.0232 0 0 1 813.0684 310.166)" class="st6 st3 st7">54.5</text>
+		<text transform="matrix(1.0232 0 0 1 813.0684 275.6182)" class="st6 st3 st7"> 9.4</text>
+		<path class="st8" d="M881.6,374.2"/>
+		<g>
+			<rect x="843.3" y="253.7" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="909.3" y="322.6" class="st0" width="33" height="34.1"/>
+		</g>
+		<g>
+			<rect x="876.3" y="288.2" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="942.3" y="357.4" class="st0" width="33" height="33.8"/>
+		</g>
+		<text transform="matrix(1.0232 0 0 1 845.4219 240.7617)" class="st6 st3 st7"> 9.4</text>
+		<text transform="matrix(1.0232 0 0 1 878.7988 240.7617)" class="st6 st3 st7">54.5</text>
+		<text transform="matrix(1.0232 0 0 1 912.1748 240.9331)" class="st6 st3 st7">12.0</text>
+		<text transform="matrix(1.0232 0 0 1 945.8945 240.7617)" class="st6 st3 st7">42.6</text>
+		<text transform="matrix(1.0232 0 0 1 845.4238 310.166)" class="st6 st3 st7">21.3</text>
+		<text transform="matrix(1.0232 0 0 1 845.4219 345.3794)" class="st6 st3 st7">40.8</text>
+		<text transform="matrix(1.0232 0 0 1 845.4219 379.3896)" class="st6 st3 st7">29.4</text>
+		<text transform="matrix(1.0232 0 0 1 878.7988 274.8164)" class="st6 st3 st7">21.3</text>
+		<text transform="matrix(1.0232 0 0 1 912.1748 274.8174)" class="st6 st3 st7">40.8</text>
+		<text transform="matrix(1.0232 0 0 1 945.8945 274.9854)" class="st6 st3 st7">29.4</text>
+		<text transform="matrix(1.0232 0 0 1 912.1748 310.165)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 945.8945 310.166)" class="st6 st3 st7">68.7</text>
+		<text transform="matrix(1.0232 0 0 1 878.7988 345.0957)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 878.7988 379.3896)" class="st6 st3 st7">68.7</text>
+		<text transform="matrix(1.0232 0 0 1 912.1748 379.3896)" class="st6 st3 st7">38.3</text>
+		<text transform="matrix(1.0232 0 0 1 945.8945 345.0957)" class="st6 st3 st7">38.3</text>
+	</g>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 829.8691 214.6279)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 829.8691 158.3164)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 829.8691 131.2031)" class="st0 st1 st2"> </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 864.333 214.6279)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 898.7979 214.6279)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 932.2617 214.6279)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 965.7256 214.6279)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+</g>
+<text transform="matrix(1 0 0 1 25.7738 34.3542)" class="st10 st9 st11">A</text>
+<text transform="matrix(1 0 0 1 25.7742 460.7654)" class="st10 st9 st11">B</text>
+<g>
+	<text transform="matrix(1.0428 0 0 1 370.7334 686.5732)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(1.0428 0 0 1 427.0439 686.5732)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(1.0428 0 0 1 454.1572 686.5732)" class="st0 st1 st2"> </text>
+	<text transform="matrix(1.0428 0 0 1 351.624 721.0371)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(1.0428 0 0 1 391.584 755.501)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(1.0428 0 0 1 367.2598 788.9648)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(1.0428 0 0 1 334.9248 822.4287)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+	<g>
+		<g>
+			<rect x="464" y="661.8" class="st0" width="33" height="34.4"/>
+		</g>
+		<rect x="464" y="661.8" class="st5" width="165.1" height="172.3"/>
+		<line class="st5" x1="497.1" y1="661.8" x2="497.1" y2="834.1"/>
+		<line class="st5" x1="530.1" y1="661.8" x2="530.1" y2="834.1"/>
+		<line class="st5" x1="563.1" y1="661.8" x2="563.1" y2="834.1"/>
+		<line class="st5" x1="596.1" y1="661.8" x2="596.1" y2="834.1"/>
+		<line class="st5" x1="464" y1="696.2" x2="629.2" y2="696.2"/>
+		<line class="st5" x1="464" y1="730.7" x2="629.2" y2="730.7"/>
+		<line class="st5" x1="464" y1="765.1" x2="629.2" y2="765.1"/>
+		<line class="st5" x1="464" y1="799.6" x2="629.2" y2="799.6"/>
+		<text transform="matrix(1.0232 0 0 1 466.9131 821.8555)" class="st6 st3 st7">61.3</text>
+		<text transform="matrix(1.0232 0 0 1 466.9131 787.5615)" class="st6 st3 st7">27.5</text>
+		<text transform="matrix(1.0232 0 0 1 466.9131 752.6318)" class="st6 st3 st7">66.9</text>
+		<text transform="matrix(1.0232 0 0 1 466.9131 718.084)" class="st6 st3 st7">26.6</text>
+		<path class="st8" d="M535.4,816.7"/>
+		<g>
+			<rect x="497.1" y="696.2" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="563.1" y="765.1" class="st0" width="33" height="34.1"/>
+		</g>
+		<g>
+			<rect x="530.1" y="730.7" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="596.1" y="799.9" class="st0" width="33" height="33.8"/>
+		</g>
+		<text transform="matrix(1.0232 0 0 1 499.2676 683.2275)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 683.2275)" class="st6 st3 st7">66.9</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 683.3984)" class="st6 st3 st7">27.5</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 683.2275)" class="st6 st3 st7">61.3</text>
+		<text transform="matrix(1.0232 0 0 1 499.2686 752.6318)" class="st6 st3 st7">31.9</text>
+		<text transform="matrix(1.0232 0 0 1 499.2676 787.8447)" class="st6 st3 st7">45.6</text>
+		<text transform="matrix(1.0232 0 0 1 499.2676 821.8555)" class="st6 st3 st7">37.9</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 717.2822)" class="st6 st3 st7">31.9</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 717.2832)" class="st6 st3 st7">45.6</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 717.4512)" class="st6 st3 st7">37.9</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 752.6309)" class="st6 st3 st7">35.3</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 752.6318)" class="st6 st3 st7">81.8</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 787.5615)" class="st6 st3 st7">35.3</text>
+		<text transform="matrix(1.0232 0 0 1 532.6436 821.8555)" class="st6 st3 st7">81.8</text>
+		<text transform="matrix(1.0232 0 0 1 566.0195 821.8555)" class="st6 st3 st7">44.9</text>
+		<text transform="matrix(1.0232 0 0 1 599.7393 787.5615)" class="st6 st3 st7">44.9</text>
+	</g>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 483.7148 657.0928)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 483.7148 600.7803)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 483.7148 573.6689)" class="st0 st1 st2"> </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 518.1787 657.0928)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 552.6426 657.0928)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 586.1064 657.0928)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 619.5703 657.0928)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+</g>
+<g>
+	<text transform="matrix(1.0428 0 0 1 716.8887 686.5732)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(1.0428 0 0 1 773.1992 686.5732)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(1.0428 0 0 1 800.3125 686.5732)" class="st0 st1 st2"> </text>
+	<text transform="matrix(1.0428 0 0 1 697.7783 721.0371)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(1.0428 0 0 1 737.7383 755.501)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(1.0428 0 0 1 713.4141 788.9648)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(1.0428 0 0 1 681.0801 822.4287)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+	<g>
+		<g>
+			<rect x="810.2" y="661.8" class="st0" width="33" height="34.4"/>
+		</g>
+		<rect x="810.2" y="661.8" class="st5" width="165.1" height="172.3"/>
+		<line class="st5" x1="843.3" y1="661.8" x2="843.3" y2="834.1"/>
+		<line class="st5" x1="876.3" y1="661.8" x2="876.3" y2="834.1"/>
+		<line class="st5" x1="909.3" y1="661.8" x2="909.3" y2="834.1"/>
+		<line class="st5" x1="942.3" y1="661.8" x2="942.3" y2="834.1"/>
+		<line class="st5" x1="810.2" y1="696.2" x2="975.4" y2="696.2"/>
+		<line class="st5" x1="810.2" y1="730.7" x2="975.4" y2="730.7"/>
+		<line class="st5" x1="810.2" y1="765.1" x2="975.4" y2="765.1"/>
+		<line class="st5" x1="810.2" y1="799.6" x2="975.4" y2="799.6"/>
+		<text transform="matrix(1.0232 0 0 1 813.0674 821.8555)" class="st6 st3 st7">61.1</text>
+		<text transform="matrix(1.0232 0 0 1 813.0674 787.5615)" class="st6 st3 st7">27.5</text>
+		<text transform="matrix(1.0232 0 0 1 813.0674 752.6318)" class="st6 st3 st7">66.9</text>
+		<text transform="matrix(1.0232 0 0 1 813.0674 718.084)" class="st6 st3 st7">26.6</text>
+		<path class="st8" d="M881.6,816.7"/>
+		<g>
+			<rect x="843.3" y="696.2" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="909.3" y="765.1" class="st0" width="33" height="34.1"/>
+		</g>
+		<g>
+			<rect x="876.3" y="730.7" class="st0" width="33" height="34.4"/>
+		</g>
+		<g>
+			<rect x="942.3" y="799.9" class="st0" width="33" height="33.8"/>
+		</g>
+		<text transform="matrix(1.0232 0 0 1 845.4219 683.2275)" class="st6 st3 st7">26.6</text>
+		<text transform="matrix(1.0232 0 0 1 878.7979 683.2275)" class="st6 st3 st7">66.9</text>
+		<text transform="matrix(1.0232 0 0 1 912.1738 683.3984)" class="st6 st3 st7">27.5</text>
+		<text transform="matrix(1.0232 0 0 1 945.8936 683.2275)" class="st6 st3 st7">61.1</text>
+		<text transform="matrix(1.0232 0 0 1 845.4229 752.6318)" class="st6 st3 st7">31.9</text>
+		<text transform="matrix(1.0232 0 0 1 845.4219 787.8447)" class="st6 st3 st7">45.6</text>
+		<text transform="matrix(1.0232 0 0 1 845.4219 821.8555)" class="st6 st3 st7">35.0</text>
+		<text transform="matrix(1.0232 0 0 1 878.7979 717.2822)" class="st6 st3 st7">31.9</text>
+		<text transform="matrix(1.0232 0 0 1 912.1738 717.2832)" class="st6 st3 st7">45.6</text>
+		<text transform="matrix(1.0232 0 0 1 945.8936 717.4512)" class="st6 st3 st7">35.0</text>
+		<text transform="matrix(1.0232 0 0 1 912.1738 752.6309)" class="st6 st3 st7">35.3</text>
+		<text transform="matrix(1.0232 0 0 1 945.8936 752.6318)" class="st6 st3 st7">90.6</text>
+		<text transform="matrix(1.0232 0 0 1 878.7979 787.5615)" class="st6 st3 st7">35.3</text>
+		<text transform="matrix(1.0232 0 0 1 878.7979 821.8555)" class="st6 st3 st7">90.6</text>
+		<text transform="matrix(1.0232 0 0 1 912.1738 821.8555)" class="st6 st3 st7">39.3</text>
+		<text transform="matrix(1.0232 0 0 1 945.8936 787.5615)" class="st6 st3 st7">39.3</text>
+	</g>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 829.8691 657.0928)" class="st0 st1 st2">E. coli </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 829.8691 600.7803)" class="st0 st3 st2">IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 829.8691 573.6689)" class="st0 st1 st2"> </text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 864.333 657.0928)" class="st4"><tspan x="0" y="0" class="st0 st1 st2">E. coli</tspan><tspan x="49" y="0" class="st0 st3 st2"> EF-Tu</tspan></text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 898.7979 657.0928)" class="st0 st3 st2">LCA IF2</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 932.2617 657.0928)" class="st0 st3 st2">LCA EF-Tu</text>
+	<text transform="matrix(6.385308e-17 -1.0428 1 6.123234e-17 965.7256 657.0928)" class="st0 st3 st2">LCA IF2/EF-Tu</text>
+</g>
+</svg>
